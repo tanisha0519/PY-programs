@@ -1,5 +1,5 @@
 import calendar
-print("===== CALENDAR APPLICATION =====")
+print("CALENDAR")
 year = int(input("Enter Year (e.g., 2026): "))
 month = int(input("Enter Month (1-12): "))
 if 1 <= month <= 12:
