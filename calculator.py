@@ -1,6 +1,6 @@
-print("===== SIMPLE CALCULATOR =====")
+print("SIMPLE CALCULATOR")
 while True:
-    print("\nChoose an Operation:")
+    print("Choose an Operation:")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
