@@ -1,6 +1,6 @@
 import random
 secret_number = random.randint(1, 100)
-print("===== NUMBER GUESSING GAME =====")
+print("NUMBER GUESSING GAME")
 print("I have chosen a number between 1 and 100.")
 print("Try to guess it!")
 attempts = 0
