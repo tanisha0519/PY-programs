@@ -1,5 +1,5 @@
 import time
-print("===== ALARM CLOCK =====")
+print("ALARM CLOCK")
 alarm_time = input("Enter Alarm Time (HH:MM:SS): ")
 print("Alarm set for", alarm_time)
 while True: 
