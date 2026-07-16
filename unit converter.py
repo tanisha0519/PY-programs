@@ -1,5 +1,5 @@
 while True:
-    print("\n====== UNIT CONVERTER ======")
+    print("UNIT CONVERTER")
     print("1. Kilometer to Meter")
     print("2. Meter to Kilometer")
     print("3. Kilogram to Gram")
