@@ -1,5 +1,5 @@
 while True:
-    print("\n====== TEMPERATURE CONVERTER ======")
+    print("TEMPERATURE CONVERTER")
     print("1. Celsius to Fahrenheit")
     print("2. Fahrenheit to Celsius")
     print("3. Celsius to Kelvin")
